@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30634035/README.md)
 # Python Calculator
 
-A modern calculator built using Python and Tkinter.
+A modern calculator built using Python and Tkinter....
 
 ## Features
 
